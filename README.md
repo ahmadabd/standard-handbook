@@ -6,3 +6,12 @@
 بعد از اون سعی میشه در فصل های مختلف به قواعد استانداردهای مختلف پرداخته بشه
 
 کتاب را در [اینجا](https://ahmadabd.gitbooks.io/persian-standards-handbook/content/) مشاهده کنید.
+
+این کتاب رو احمد عبدالله زاده شروع کرده ولی امیدوارم در ادامه راه دوستانی به پروژه اضافه بشن.
+
+## آدرس پروژه در گیت هاب
+  * گیت هاب [لینک](https://github.com/ahmadabd/standard-handbook)
+
+### دسترسی به من
+  * گیت هاب [لینک](https://github.com/ahmadabd)
+  * لینکداین [لینک](www.linkedin.com/in/ahmad-abdollahzade-848421147)
