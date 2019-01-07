@@ -5,4 +5,4 @@
 
 بعد از اون سعی میشه در فصل های مختلف به قواعد استانداردهای مختلف پرداخته بشه
 
-کتاب را در [اینجا]مشهاهده کنید(https://ahmadabd.gitbooks.io/persian-standards-handbook/content/)
+کتاب را در [اینجا](https://ahmadabd.gitbooks.io/persian-standards-handbook/content/) مشاهده کنید.
