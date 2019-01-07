@@ -1,0 +1,19 @@
+{
+  "name": "pp-standards",
+  "version": "0.0.1",
+  "description": "A book for learning programming standards in persian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadabd/standard-handbook.git"
+  },
+  "author": "Ahmad Abdollahzade <ahmadabd13741112@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadabd/standard-handbook/issues"
+  },
+  "homepage": "https://github.com/ahmadabd/standard-handbook#readme"
+}
