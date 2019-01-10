@@ -14,4 +14,4 @@
 
 ### دسترسی به من
   * من در [گیت هاب](https://github.com/ahmadabd)
-  * من در [لینکداین](www.linkedin.com/in/ahmad-abdollahzade-848421147)
+  * من در [لینکداین](https://www.linkedin.com/in/ahmad-abdollahzade-848421147/)
