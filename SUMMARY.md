@@ -1,4 +1,5 @@
 # Summary
 
 * [معرفی](README.md)
-* [فصل اول](chapter1.md)
+* [خوانا نویسی](chapter1.md)
+* [نامگذاری متغیرها](chapter2.md)
