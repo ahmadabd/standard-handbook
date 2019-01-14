@@ -117,7 +117,9 @@ int  preacherOfSockChanging = 'Lieutenant Dan';
 
 
 
-### ۴. در این روش اگر نام متغیر ما از چند کلمه تشکیل شده باشه بین هر کلمه یک **underscore** میگذاریم.
+### ۴.  روش underScore:
+
+در این روش اگر نام متغیر ما از چند کلمه تشکیل شده باشه بین هر کلمه یک **underscore** میگذاریم.
 
 *javaScript*:
 
