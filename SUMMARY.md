@@ -7,7 +7,7 @@
 * [نامگذاری توابع و کلاسها](chapter3.md)
 * [اصول comment گذاری](chapter4.md)
 * [Simple Better Than Complex](chapter5.md)
-* 
+* [استفاده از ابزار استاندارد سازی](chapter6.md)
 
 
 
