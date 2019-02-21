@@ -9,7 +9,9 @@
 
 -------------------------------------
 
-کتاب را میتوانید در [اینجا](https://ahmadabd.gitbooks.io/pp-standards/content/) مشاهده کنید.
+کتاب را میتوانید درgitbook از  [اینجا](https://ahmadabd.gitbooks.io/pp-standards/content/) مشاهده کنید.
+
+برای دانلود نسخه pdf [اینجا](https://github.com/ahmadabd/standard-handbook/raw/master/programming-standards.pdf) کلیک کنید.
 
 این کتاب  تحت استاندارد **GPL-3.0** در [github](https://github.com/) قرار داده شده.
 
