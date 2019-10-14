@@ -43,7 +43,7 @@ return hours < 24 && minutes < 60 && seconds < 60;
 به دو کد زیر دقت کنید و کد بهتر را انتخاب کنید:
 
 ```python
-## fibo
+## factorial
 def fibo(n):
     return 1 if n <= 1 else n * fibo(n - 1)
 
@@ -53,7 +53,7 @@ print(fibo(4))
 یا
 
 ```python
-## fibo
+## factorial
 def fibo(n):
     if n <= 1:
         return 1
