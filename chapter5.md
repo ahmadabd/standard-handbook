@@ -44,21 +44,23 @@ return hours < 24 && minutes < 60 && seconds < 60;
 
 ```python
 ## factorial
-def fibo(n):
-    return 1 if n <= 1 else n * fibo(n - 1)
+def fact(n):
+    return 1 if n <= 1 else n * fact(n - 1)
 
-print(fibo(4))
+print(fact(4))
 ```
 
 یا
 
 ```python
 ## factorial
-def fibo(n):
+def fact(n):
     if n <= 1:
         return 1
     else:
-        return n * fibo(n - 1)
+        return n * fact(n - 1)
+
+print(fact(4))
 ```
 
 
